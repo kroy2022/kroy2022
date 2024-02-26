@@ -1,4 +1,7 @@
 ### Hey, I'm Kevin 👋
+
+🧠 About Me
+
 - 👀 Interested in web development, machine learning, and deep learning
 - 🌱 I’m currently learning Computer Systems, Discrete Structures, and Matrix Theory
 - 💪 Experiences with Python, C#, React, and NLP Models
