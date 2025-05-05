@@ -3,7 +3,7 @@
 🧠 About Me
 
 - 👀 Interested in full-stack development, machine learning, and product management
-- 🚀 Building revix ai
+- 🚀 Building revix ai: www.revix.ai
 - 🌱 I’m currently learning Computer Systems, Software Architecture, and Distributed Systems
 - 💪 Experienced with Python, C#, React, and NLP Models
 - 🔭 I’m currently working as a Software Engineer Intern at Blue Origin, Prev at Garmin
