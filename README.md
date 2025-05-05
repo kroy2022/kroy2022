@@ -6,7 +6,7 @@
 - 🚀 Building revix ai: www.revix.ai
 - 🌱 I’m currently learning Computer Systems, Software Architecture, and Distributed Systems
 - 💪 Experienced with Python, C#, React, and NLP Models
-- 🔭 I’m currently working as a Software Engineer Intern at Blue Origin, Prev at Garmin
+- 🔭 I’m currently working as a Software Engineer Intern at Raytheon, Prev at Blue Origin and Garmin
 - 📫 Connect with me!
 
 <a href="mailto:kevinroy2015@gmail.com">
