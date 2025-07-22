@@ -2,8 +2,8 @@
 
 🧠 About Me
 
-- 👀 Interested in full-stack development, machine learning, and product management
-- 🚀 Building revix ai: www.revix.ai
+- 👀 Interested in full-stack development, machine learning, and embedded development
+- 🚀 Building revix ai: www.revix.ai (Used by 10,000+ students in 50+ countries!)
 - 🌱 I’m currently learning Computer Systems, Software Architecture, and Distributed Systems
 - 💪 Experienced with Python, C#, React, and NLP Models
 - 🔭 I’m currently working as a Software Engineer Intern at Raytheon, Prev at Blue Origin and Garmin
