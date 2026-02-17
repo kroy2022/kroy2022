@@ -3,7 +3,7 @@
 🧠 About Me
 
 - 👀 Interested in full-stack development, machine learning, and embedded development
-- 🚀 Building revix ai: www.revix.ai (Used by 15,000+ students in 60+ countries!)
+- 🚀 Building revix ai: www.revix.ai (Used by 20,000+ students in 60+ countries!)
 - 🌱 I’m currently learning Embedded Engineering, Software Architecture, and Distributed Systems
 - 💪 Experienced with Python, C#, C, Java, React, and NLP Models
 - 🔭 I’m currently working as a Software Engineer 1 at Garmin Prev at Blue Origin and RTX
