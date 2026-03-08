@@ -12,13 +12,12 @@
 
 ```python
 class Kevin:
-    pronouns     = "he/him"
     location     = "United States 🇺🇸"
     role         = "Software Engineer I @ Garmin"
     prev         = ["Blue Origin 🚀", "Raytheon Technologies ✈️"]
     building     = ["revix.ai — used by 20,000+ students in 60+ countries 🌍",
                     "educators.revix.ai — coming August 2026 🎓"]
-    learning     = ["Embedded Engineering", "Software Architecture", "Distributed Systems"]
+    learning     = ["Full Stack Development", "Embedded Engineering", "Software Architecture", "Distributed Systems"]
     interests    = ["Full-Stack Dev", "Machine Learning", "Embedded Systems"]
 ```
 
