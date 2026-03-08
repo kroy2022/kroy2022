@@ -29,8 +29,8 @@ class Kevin:
 
 | 🎯 Project | 📋 Description | 🔗 Link |
 |:---:|:---:|:---:|
-| **Revix AI** | AI-powered study platform · 20,000+ students · 60+ countries | [revix.ai](https://www.revix.ai) |
-| **Revix for Educators** | Bringing Revix to the classroom *(Coming Aug 2026)* | [educators.revix.ai](https://www.educators.revix.ai) |
+| **Revix AI** | AI-powered study platform · 20,000+ students · 60+ countries | [revix.ai](https://revix.ai) |
+| **Revix for Educators** | Bringing Revix to the classroom *(Coming Aug 2026)* | [educators.revix.ai](https://educators.revix.ai) |
 
 </div>
 
