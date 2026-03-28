@@ -87,9 +87,9 @@ class Kevin:
 
 | 🏢 Company | 🔖 Role | 🌐 Field |
 |:---:|:---:|:---:|
-| **Garmin** | Software Engineer I | Embedded & Navigation Systems |
-| **Blue Origin** | Intern | Aerospace Software |
+| **Garmin (Current)** | Software Engineer I | Embedded & Navigation Systems |
 | **Raytheon Technologies** | Intern | Defense & Aerospace |
+| **Blue Origin** | Intern | Aerospace Software |
 | **Garmin** | Intern | Internal Tools & Cloud Services - Aviation |
 
 </div>
