@@ -31,6 +31,7 @@ class Kevin:
 |:---:|:---:|:---:|
 | **Revix AI** | AI-powered study platform · 20,000+ students · 60+ countries | [revix.ai](https://revix.ai) |
 | **Revix for Educators** | Bringing Revix to the classroom *(Coming Aug 2026)* | [educators.revix.ai](https://educators.revix.ai) |
+| **Revix for Canvas (Extension)** | The bridge from Canvas course materials to Revix study sets. *(Coming April 2026)* 
 
 </div>
 
